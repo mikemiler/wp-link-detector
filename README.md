@@ -1,4 +1,12 @@
-# URL Link Finder
+=== URL Link Finder ===
+Contributors: mikemiler
+Tags: url finder, link finder, content search, url search, links
+Requires at least: 5.0
+Tested up to: 6.4
+Stable tag: 1.0
+Requires PHP: 7.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A WordPress plugin that helps you find all links in your posts and pages that start with a specific URL.
 
@@ -54,4 +62,9 @@ GPL v2 or later
 
 ## Support
 
-For support and feature requests, please visit [wp-mike.com](https://wp-mike.com) 
+For support and feature requests, please visit [wp-mike.com](https://wp-mike.com)
+
+## Changelog
+
+= 1.0 =
+* Initial release 

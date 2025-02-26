@@ -65,7 +65,7 @@ function url_finder_page() {
             <input type="url" name="search_url" id="search_url" value="<?php echo esc_attr($search_url); ?>" style="width: 400px;">
             <?php submit_button('Search'); ?>
         </form>
-
+ 
         <?php if (!empty($search_url)): ?>
             <h2>Search Results</h2>
             <?php if (!empty($results)): ?>
